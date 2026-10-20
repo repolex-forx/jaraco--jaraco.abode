@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "jaraco.abode",
+  "versions": [
+    {
+      "commit": "9dab1fa53f390f73295c7128097f0eb27440da16",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:19:55.352079+00:00"
+    }
+  ]
+}
